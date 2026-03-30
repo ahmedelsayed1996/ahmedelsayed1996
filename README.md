@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Ahmed El-Ged from Eygpt<br><br>- 🔭 I’m working as Frontend & Wordpress Developer @ Switch Advertising<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I Coding</p>
+<p align="left">I'm Ahmed El-Ged from Eygpt<br><br>- 🔭 I’m working as Frontend & Wordpress Developer @ Eduxa<br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I Coding</p>
 
 ###
 
